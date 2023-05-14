@@ -52,8 +52,8 @@ header a:hover, footer a:hover {
 }
 
 section{
-    padding-top: 10vh; /* 100% da altura(h) da viewport(v) em cima */
-    padding-bottom: 10vh; /* 100% da altura(h) da viewport(v) em baixo*/
+    padding-top: 10vh; /* 10% da altura(h) da viewport(v) em cima */
+    padding-bottom: 10vh; /* 10% da altura(h) da viewport(v) em baixo*/
     line-height: 2em; /* espaçamento entre as linhas*/
     padding-left: 30px; /* espaçamentoa esquerda */
     font-family: var(--fonte3);
@@ -71,7 +71,7 @@ section.normal{
 }
 
 section.imagem{
-    background-color: rgba(92, 90, 90, 0.199); /* Coloa o teto dentro de uma caixa*/
+    background-color: rgba(92, 90, 90, 0.199); /* Coloca o texto dentro de uma caixa*/
     width: 400px; /* Largura da caixa */
     color:white;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.562) ;
