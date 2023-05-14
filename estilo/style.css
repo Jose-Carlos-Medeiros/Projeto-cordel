@@ -34,7 +34,7 @@ header>h1{
     padding-top: 50px;
     font-variant: small-caps;/* coloca a fonte com letra maiúscula*/
     font-family: var(--fonte2);
-    font-size: 5vw;
+    font-size: 5vw; /* 10% da largura (h) da viewport(v) */
 }
 
 header>p{
@@ -57,7 +57,8 @@ section{
     line-height: 2em; /* espaçamento entre as linhas*/
     padding-left: 30px; /* espaçamentoa esquerda */
     font-family: var(--fonte3);
-    font-size: 3.5vw;
+    font-size: 3.5vw; /* 3.5% da largura (h) da viewport(v) */
+}
 }
 
 section>p{
